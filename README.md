@@ -1,4 +1,4 @@
-# Web Development Project 2 - React Flash Cards Pt 2
+# Web Development Project 3 - React Flash Cards Pt 2
 
 Submitted by: Jason Morales
 
