@@ -1,8 +1,8 @@
-# Web Development Project 2 - React Flash Cards
+# Web Development Project 2 - React Flash Cards Pt 2
 
 Submitted by: Jason Morales
 
-This web app: Flash Cards
+This web app: Flash Cards Pt 2
 
 Time spent: 3 hours spent in total
 
@@ -10,28 +10,28 @@ Time spent: 3 hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [X] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [X] **A list of card pairs is created**
-- [X] **Clicking on the card shows the corresponding component of the information pair**
-- [X] **Clicking the next button displays a random new card**
+- [X] **The user can enter their guess in a box before seeing the flipside of the card**
+- [X] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [X] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [X] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [X] Cards have different visual styles such as color based on their category
-  - [X] Easy/Medium/Hard
+- [X] A shuffle button is used to randomize the order of the cards
+- [X] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [X] A counter displays the user's current and longest streak of correct responses
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='./FlashCards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./FlashCards2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap
 
 ## Notes
 
-Flipping the text after flipping the card
+No issues
 
 ## License
 
